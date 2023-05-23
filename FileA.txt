@@ -1,3 +1,2 @@
 This FileA
-This is a change to the FileA
-Changes were made
+This is a change to the File
